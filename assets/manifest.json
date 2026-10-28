@@ -1,0 +1,398 @@
+[
+  {
+    "key": "player",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player.png"
+  },
+  {
+    "key": "player_oops",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_oops.png"
+  },
+  {
+    "key": "player_jump",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_jump.png"
+  },
+  {
+    "key": "player_run",
+    "width": 640,
+    "height": 100,
+    "file": "assets/player_run.png"
+  },
+  {
+    "key": "player_girl",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_girl.png"
+  },
+  {
+    "key": "player_girl_oops",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_girl_oops.png"
+  },
+  {
+    "key": "player_girl_jump",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_girl_jump.png"
+  },
+  {
+    "key": "player_girl_run",
+    "width": 640,
+    "height": 100,
+    "file": "assets/player_girl_run.png"
+  },
+  {
+    "key": "player_boy",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_boy.png"
+  },
+  {
+    "key": "player_boy_oops",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_boy_oops.png"
+  },
+  {
+    "key": "player_boy_jump",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_boy_jump.png"
+  },
+  {
+    "key": "player_boy_run",
+    "width": 640,
+    "height": 100,
+    "file": "assets/player_boy_run.png"
+  },
+  {
+    "key": "star",
+    "width": 64,
+    "height": 64,
+    "file": "assets/star.png"
+  },
+  {
+    "key": "sparkle",
+    "width": 24,
+    "height": 24,
+    "file": "assets/sparkle.png"
+  },
+  {
+    "key": "block0",
+    "width": 72,
+    "height": 64,
+    "file": "assets/block0.png"
+  },
+  {
+    "key": "block1",
+    "width": 72,
+    "height": 64,
+    "file": "assets/block1.png"
+  },
+  {
+    "key": "block2",
+    "width": 72,
+    "height": 64,
+    "file": "assets/block2.png"
+  },
+  {
+    "key": "bee0",
+    "width": 72,
+    "height": 58,
+    "file": "assets/bee0.png"
+  },
+  {
+    "key": "bee1",
+    "width": 72,
+    "height": 58,
+    "file": "assets/bee1.png"
+  },
+  {
+    "key": "cloud",
+    "width": 170,
+    "height": 90,
+    "file": "assets/cloud.png"
+  },
+  {
+    "key": "bush",
+    "width": 116,
+    "height": 60,
+    "file": "assets/bush.png"
+  },
+  {
+    "key": "flower0",
+    "width": 40,
+    "height": 70,
+    "file": "assets/flower0.png"
+  },
+  {
+    "key": "flower1",
+    "width": 40,
+    "height": 70,
+    "file": "assets/flower1.png"
+  },
+  {
+    "key": "flower2",
+    "width": 40,
+    "height": 70,
+    "file": "assets/flower2.png"
+  },
+  {
+    "key": "tree",
+    "width": 142,
+    "height": 230,
+    "file": "assets/tree.png"
+  },
+  {
+    "key": "school",
+    "width": 340,
+    "height": 240,
+    "file": "assets/school.png"
+  },
+  {
+    "key": "goal_arch",
+    "width": 440,
+    "height": 400,
+    "file": "assets/goal_arch.png"
+  },
+  {
+    "key": "star_rainbow",
+    "width": 64,
+    "height": 64,
+    "file": "assets/star_rainbow.png"
+  },
+  {
+    "key": "crown",
+    "width": 96,
+    "height": 64,
+    "file": "assets/crown.png"
+  },
+  {
+    "key": "level_easy",
+    "width": 160,
+    "height": 160,
+    "file": "assets/level_easy.png"
+  },
+  {
+    "key": "level_normal",
+    "width": 160,
+    "height": 160,
+    "file": "assets/level_normal.png"
+  },
+  {
+    "key": "level_hard",
+    "width": 160,
+    "height": 160,
+    "file": "assets/level_hard.png"
+  },
+  {
+    "key": "mole",
+    "width": 72,
+    "height": 64,
+    "file": "assets/mole.png"
+  },
+  {
+    "key": "mole_oops",
+    "width": 72,
+    "height": 64,
+    "file": "assets/mole_oops.png"
+  },
+  {
+    "key": "mole_hole",
+    "width": 86,
+    "height": 28,
+    "file": "assets/mole_hole.png"
+  },
+  {
+    "key": "acorn",
+    "width": 66,
+    "height": 66,
+    "file": "assets/acorn.png"
+  },
+  {
+    "key": "puddle",
+    "width": 140,
+    "height": 28,
+    "file": "assets/puddle.png"
+  },
+  {
+    "key": "player_girl_blink",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_girl_blink.png"
+  },
+  {
+    "key": "player_girl_fall",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_girl_fall.png"
+  },
+  {
+    "key": "player_girl_cheer",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_girl_cheer.png"
+  },
+  {
+    "key": "player_boy_blink",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_boy_blink.png"
+  },
+  {
+    "key": "player_boy_fall",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_boy_fall.png"
+  },
+  {
+    "key": "player_boy_cheer",
+    "width": 80,
+    "height": 100,
+    "file": "assets/player_boy_cheer.png"
+  },
+  {
+    "key": "ground0",
+    "width": 512,
+    "height": 140,
+    "file": "assets/ground0.png"
+  },
+  {
+    "key": "ground1",
+    "width": 512,
+    "height": 140,
+    "file": "assets/ground1.png"
+  },
+  {
+    "key": "ground2",
+    "width": 512,
+    "height": 140,
+    "file": "assets/ground2.png"
+  },
+  {
+    "key": "ground3",
+    "width": 512,
+    "height": 140,
+    "file": "assets/ground3.png"
+  },
+  {
+    "key": "mote",
+    "width": 16,
+    "height": 22,
+    "file": "assets/mote.png"
+  },
+  {
+    "key": "rainbow_halo",
+    "width": 116,
+    "height": 116,
+    "file": "assets/rainbow_halo.png"
+  },
+  {
+    "key": "landscape_garden",
+    "width": 1600,
+    "height": 600,
+    "file": "assets/landscape_garden.webp",
+    "origin": "watercolor illustration based on school-approved exterior photograph"
+  },
+  {
+    "key": "landscape_flowers",
+    "width": 1600,
+    "height": 600,
+    "file": "assets/landscape_flowers.webp",
+    "origin": "original watercolor memory landscape"
+  },
+  {
+    "key": "landscape_forest",
+    "width": 1600,
+    "height": 600,
+    "file": "assets/landscape_forest.webp",
+    "origin": "original watercolor memory landscape"
+  },
+  {
+    "key": "landscape_sky",
+    "width": 1600,
+    "height": 600,
+    "file": "assets/landscape_sky.webp",
+    "origin": "original watercolor memory landscape"
+  },
+  {
+    "key": "seed",
+    "width": 24,
+    "height": 24,
+    "file": "assets/seed.png"
+  },
+  {
+    "key": "leaf",
+    "width": 24,
+    "height": 24,
+    "file": "assets/leaf.png"
+  },
+  {
+    "key": "butterfly",
+    "width": 24,
+    "height": 24,
+    "file": "assets/butterfly.png"
+  },
+  {
+    "key": "bird",
+    "width": 24,
+    "height": 24,
+    "file": "assets/bird.png"
+  },
+  {
+    "key": "tuft0",
+    "width": 96,
+    "height": 60,
+    "file": "assets/tuft0.png"
+  },
+  {
+    "key": "tuft1",
+    "width": 96,
+    "height": 60,
+    "file": "assets/tuft1.png"
+  },
+  {
+    "key": "tuft2",
+    "width": 96,
+    "height": 60,
+    "file": "assets/tuft2.png"
+  },
+  {
+    "key": "tuft3",
+    "width": 96,
+    "height": 60,
+    "file": "assets/tuft3.png"
+  },
+  {
+    "key": "school_storybook",
+    "width": 1280,
+    "height": 720,
+    "file": "assets/school_storybook.webp",
+    "origin": "watercolor illustration based on school-approved exterior photograph"
+  },
+  {
+    "key": "school_result",
+    "width": 1280,
+    "height": 720,
+    "file": "assets/school_result.webp",
+    "origin": "watercolor illustration based on school-approved exterior photograph"
+  },
+  {
+    "key": "oimo",
+    "width": 72,
+    "height": 48,
+    "file": "assets/oimo.png"
+  },
+  {
+    "key": "oimo_leaf",
+    "width": 80,
+    "height": 44,
+    "file": "assets/oimo_leaf.png"
+  }
+]
